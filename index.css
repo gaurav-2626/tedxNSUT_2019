@@ -232,3 +232,8 @@ h1{
     left: 0;
   }
 } */
+
+/* border in the images */
+.change{
+  border:3px solid black;
+}
